@@ -1,0 +1,10 @@
+# Projeto
+
+	Criação de um simulador de pipeline que contabiliza os ciclos mas descarta os conflitos estruturais.
+
+
+# Compilação
+	
+	Para compilar o programa basta digitar "make" no terminal linux que o programa já será executado.
+
+	O programa só recebe para leitura arquivos ".in". É possível substituir o código no arquivo "teste.in" e o ler através do comando de terminal "./bin/main < teste.in > saida.out "
