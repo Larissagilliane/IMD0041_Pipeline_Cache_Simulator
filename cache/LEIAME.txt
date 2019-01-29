@@ -1,0 +1,8 @@
+# Projeto
+	Criação de um simulador de memória cache, o contéudo da memória foi ignorado devido a informação contida no arquivo ".pdf" onde "O CONTEÚDO das memórias não importa"
+
+# Compilação
+	Para compilar o programa basta digitar "make" no terminal linux que o programa já será executado.
+	Para parar a Execução basta digitar "exit".
+	O programa recebe para leitura arquivos ".txt", e pode ser editado no arquivo "config.txt".
+
